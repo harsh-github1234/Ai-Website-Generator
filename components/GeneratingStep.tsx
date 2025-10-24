@@ -12,7 +12,7 @@ const GeneratingStep: React.FC = () => {
         </div>
       </div>
       <h2 className="text-2xl font-bold text-white">Crafting Your Website...</h2>
-      <p className="text-purple-300">Our AI is designing, coding, and bringing your vision to life. This might take a moment.</p>
+      <p className="text-purple-300">Our DigitalBloom AI is designing, coding, and bringing your vision to life. This might take a moment.</p>
     </div>
   );
 };
