@@ -70,7 +70,7 @@ const QuestionnaireStep: React.FC<QuestionnaireStepProps> = ({ onSubmit, initial
   return (
     <div className="w-full max-w-3xl mx-auto bg-gray-800 rounded-2xl shadow-lg p-8 transition-all duration-500">
       <div className="text-center mb-8">
-        <h1 className="text-4xl font-bold text-white">AI Website Generator</h1>
+        <h1 className="text-4xl font-bold text-white">DigitalBloom AI Website Generator</h1>
         <p className="text-purple-300 mt-2">Tell us about your business, and we'll craft a website for you.</p>
       </div>
 
