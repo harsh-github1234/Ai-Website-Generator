@@ -1,0 +1,5 @@
+{
+  "name": "AI Website Generator",
+  "description": "Answer a few questions about your business, and our AI will generate a complete, professional, single-page website with HTML, CSS, and JavaScript code for you to use.",
+  "requestFramePermissions": []
+}
